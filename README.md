@@ -12,11 +12,16 @@ The aim is to equip students with the Data Science skills and neuroscience princ
 
 # LESSON ZERO: Data Science Basics & JupyterHub Cloud Computing
 
+Basic introduction how to use python as a Data science tool to read in and display (2D) data.
+Explained is the Anscombe Quarted + the relatationship between data  & information.
+
+* https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/ZERO/DATA_SCIENCE_BASICS_SEPT_2022sec..pdf
+* https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-e54144a509a6
 
 
 # LESSON TWO: Defining AI & the Human Condition
 
-https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/ZERO/DATA_SCIENCE_BASICS_SEPT_2022sec..pdf
+
 
 In this lession we explore how to define AI from the prespective of what us defines as human beings: "THE HUMAN CONDITION".
 
