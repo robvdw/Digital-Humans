@@ -59,8 +59,8 @@ In this lession we explore how to define AI from the prespective of what us defi
 
 ***********
 
-# LESSON FOUR: Machine Learing
-## Learn How to train neural networks with your own Data
+# LESSON FOUR: Machine Learning
+## Learn How to Train Neural Networks With Your Own Data
 
 
 
