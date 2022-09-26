@@ -14,11 +14,18 @@ The aim is to equip students with the Data Science skills and neuroscience princ
 
 Basic introduction how to use python as a Data science tool to read in and display (2D) data.
 Explained is the Anscombe Quarted + the relatationship between data  & information.
+
 Example Python Jupyter Notebooks can be found at: https://github.com/robvdw/Digital-Humans/tree/main/Code/ANSCOMB_QUARTED.
 
 * https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/ZERO/DATA_SCIENCE_BASICS_SEPT_2022sec..pdf
 * https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-e54144a509a6
+* https://github.com/pdeitel/IntroToPython 
+* https://github.com/PacktPublishing/Building-Data-Science-Solutions-with-Anaconda 
 
+![Intro to Pyton & Data Science](https://user-images.githubusercontent.com/684692/192322105-759d2326-2dfa-4928-b136-c6caf288f1de.jpg)
+![Building Data Science Solutions with Anaconda](https://user-images.githubusercontent.com/684692/192323922-514ebd89-2354-4cdc-8452-e184abe0b99c.jpg)
+
+Online beschibaar via Learning Oreilly database: https://learning.oreilly.com/home/)
 
 # LESSON TWO: Defining AI & the Human Condition
 
