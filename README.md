@@ -31,6 +31,8 @@ Example Python Jupyter Notebooks can be found at: https://github.com/robvdw/Digi
 
 Online beschibaar via Learning Oreilly database: https://learning.oreilly.com/home/)
 
+***********
+
 # LESSON TWO: Defining AI & the Human Condition
 
 In this lession we explore how to define AI from the prespective of what us defines as human beings: 
@@ -43,6 +45,10 @@ In this lession we explore how to define AI from the prespective of what us defi
 
 ## Materials:
 1. https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/ONE/THE_HUMAN_CONDITION/CURSUSHANDLEIDING_THE_HUMAN_CONDITION_2022_V01.pdf
-2. [https://www.researchgate.net/project/Neuroethological-basis-of-Creativity](https://docent.cmi.hro.nl/willi/cursus_DESIGN_PSYCHOLOGY/psych/)
+2. https://docent.cmi.hro.nl/willi/cursus_DESIGN_PSYCHOLOGY/wp-content/uploads/2017/02/DESIGN_PSYCHOLOGY__PERCEPTIE_01_CMDDES0115_1617_V2.pdf
 3. https://www.researchgate.net/publication/339953284_Oog_Brein_Bedrog
 4. https://www.researchgate.net/profile/Robert-Van-Der-Willigen-2/publication/352439594_AI_world_wide_web_safari/links/61f843771e98d168d7e13947/AI-world-wide-web-safari.pdf
+
+***********
+
+# LESSON THREE:
