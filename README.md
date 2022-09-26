@@ -35,13 +35,13 @@ Online beschibaar via Learning Oreilly database: https://learning.oreilly.com/ho
 
 In this lession we explore how to define AI from the prespective of what us defines as human beings: 
 
-"THE HUMAN CONDITION".
+## "THE HUMAN CONDITION"
 
 
 ![MENSELIJKE_MAAT_V01](https://user-images.githubusercontent.com/684692/192223957-85e72475-cae6-42c1-895f-fca4f0c53010.png)
 
 
-# References
+## Materials:
 1. https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/ONE/THE_HUMAN_CONDITION/CURSUSHANDLEIDING_THE_HUMAN_CONDITION_2022_V01.pdf
 2. [https://www.researchgate.net/project/Neuroethological-basis-of-Creativity](https://docent.cmi.hro.nl/willi/cursus_DESIGN_PSYCHOLOGY/psych/)
 3. https://www.researchgate.net/publication/339953284_Oog_Brein_Bedrog
