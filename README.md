@@ -54,3 +54,14 @@ In this lession we explore how to define AI from the prespective of what us defi
 
 # LESSON THREE: AI-models versus Machine learning Algorithms
 
+
+![STRONG vs WEAK AI](https://github.com/robvdw/Digital-Humans/blob/main/FIGs/GOFAIvsWEAK_AI.png)
+
+***********
+
+# LESSON FOUR: Machine Learing
+## Learn How to train neural networks with your own Data
+
+
+
+![PERCEPTRON](https://user-images.githubusercontent.com/684692/192339790-df629728-b510-4a5d-bf11-e31ecd5394ef.png)
