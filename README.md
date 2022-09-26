@@ -16,6 +16,8 @@ The aim is to equip students with the Data Science skills and neuroscience princ
 
 # LESSON TWO: Defining AI & the Human Condition
 
+https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/ZERO/DATA_SCIENCE_BASICS_SEPT_2022sec..pdf
+
 In this lession we explore how to define AI from the prespective of what us defines as human beings: "THE HUMAN CONDITION".
 
 
