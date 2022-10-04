@@ -16,4 +16,4 @@ Each course receives its own instance of JupyterHub. Users who log in will be pr
 
 ## How to use Matplotlib to enable grapical output of the notebook
 
-* Matplotlib is currently using agg, which is a non-GUI backend, so cannot show the figure - SURF User Knowledge Base - SURF User Knowledge Base
+* https://servicedesk.surf.nl/wiki/display/WIKI/Matplotlib+is+currently+using+agg%2C+which+is+a+non-GUI+backend%2C+so+cannot+show+the+figure
