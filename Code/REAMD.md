@@ -10,7 +10,7 @@ Each course receives its own instance of JupyterHub. Users who log in will be pr
 * [JupyterHub](https://jupyter.lisa.surfsara.nl/jhlhr004/hub/login)
 
 
-## FAQs / Do's and Don't can be found here:
+## FAQs / Doe's and Dont's can be found here:
 
 * https://servicedesk.surf.nl/wiki/display/WIKI/JupyterHub+for+education
 
