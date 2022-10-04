@@ -53,7 +53,8 @@ In this lession we explore how to define AI from the prespective of what us defi
 ***********
 
 # LESSON THREE: AI-models versus Machine learning Algorithms
-
+## Materials
+* https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/LESSON_03%2B04_Digital_Humans_Part01_V02.pptx
 
 ![STRONG vs WEAK AI](https://github.com/robvdw/Digital-Humans/blob/main/FIGs/GOFAIvsWEAK_AI.png)
 
