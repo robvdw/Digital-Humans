@@ -17,3 +17,7 @@ Each course receives its own instance of JupyterHub. Users who log in will be pr
 ## How to use Matplotlib to enable grapical output of the notebook
 
 * https://servicedesk.surf.nl/wiki/display/WIKI/Matplotlib+is+currently+using+agg%2C+which+is+a+non-GUI+backend%2C+so+cannot+show+the+figure
+
+## Installing Python Packages from a Jupyter Notebook
+* https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
+
