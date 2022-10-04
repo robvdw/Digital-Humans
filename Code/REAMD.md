@@ -13,3 +13,7 @@ Each course receives its own instance of JupyterHub. Users who log in will be pr
 ## FAQs / Do's and Don't can be found here:
 
 * https://servicedesk.surf.nl/wiki/display/WIKI/JupyterHub+for+education
+
+## How to use Matplotlib to enable grapical output of the notebook
+
+* https://servicedesk.surf.nl/wiki/display/WIKI/Matplotlib+is+currently+using+agg%2C+which+is+a+non-GUI+backend%2C+so+cannot+show+the+figure
