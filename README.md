@@ -63,6 +63,8 @@ In this lession we explore how to define AI from the prespective of what us defi
 # LESSON FOUR: Machine Learning
 ## Learn How to Train Neural Networks With Your Own Data
 
+* https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/CODING-PERCEPTRON-IN-PYTHON.pdf
+
 
 
 ![PERCEPTRON](https://user-images.githubusercontent.com/684692/192339790-df629728-b510-4a5d-bf11-e31ecd5394ef.png)
