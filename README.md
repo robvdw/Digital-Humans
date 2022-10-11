@@ -65,6 +65,13 @@ In this lession we explore how to define AI from the prespective of what us defi
 
 * https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/CODING-PERCEPTRON-IN-PYTHON.pdf
 
+* chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+
+![image-3-1024x791](https://user-images.githubusercontent.com/684692/195064916-25740f3e-152b-47ed-a60a-0c80ab14a159.png)
+
+
+
 
 
 ![PERCEPTRON](https://user-images.githubusercontent.com/684692/192339790-df629728-b510-4a5d-bf11-e31ecd5394ef.png)
