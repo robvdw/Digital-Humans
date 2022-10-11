@@ -68,9 +68,12 @@ In this lession we explore how to define AI from the prespective of what us defi
 * chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
 
+
+
 ![image-3-1024x791](https://user-images.githubusercontent.com/684692/195064916-25740f3e-152b-47ed-a60a-0c80ab14a159.png)
 
 
+![Backpropagation](https://user-images.githubusercontent.com/684692/195069496-9aa25ea1-6428-4728-a2b6-39763f9e3039.gif)
 
 
 
