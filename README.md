@@ -71,7 +71,7 @@ In this lession we explore how to define AI from the prespective of what us defi
 ![image-3-1024x791](https://user-images.githubusercontent.com/684692/195064916-25740f3e-152b-47ed-a60a-0c80ab14a159.png)
 
 
-![OR-gate](https://user-images.githubusercontent.com/684692/195068747-308d93ad-066f-4b03-bfa9-2cc04c2f2827.gif)
+
 
 
 
