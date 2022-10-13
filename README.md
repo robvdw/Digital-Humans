@@ -1,5 +1,5 @@
 # Digital-Humans
-How can global digital platforms scale their world-wide services to meet people's needs & wants, within the context of the human condition? Creative industries are adressing this seemingly paradox by developing agent-based solutions such as intelligent assistants, voice bots and smart objects that can converse convincingly with people  thanks to recent advances in AI-technologies. The most prominent of which are: pre-trainded deep-learning transfomer-models like BERT, BLOOM & GTP-3 [https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-d85ad558b5fa].
+How can global digital platforms scale their world-wide services to meet people's needs & wants, within the context of the human condition? Creative industries are addressing this seemingly paradox by developing agent-based solutions ---digital humans--- such as intelligent assistants, voice bots and smart objects that can converse convincingly with people  thanks to recent advances in AI-technologies. The most prominent of which are: pre-trainded deep-learning transfomer-models like BERT, BLOOM & GTP-3 [https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-d85ad558b5fa].
 
 ***********
 
