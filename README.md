@@ -8,18 +8,20 @@ How can global digital platforms scale their world-wide services to meet people'
 # Goal & Aims
 This Do-it-Yourself (DIY) course is designed to provide a basic grounding of AI based on Data Science principles & practices.
 
-The aim is to equip students with the Data Science skills and neuroscience principles in order to complete basic AI-modeling scenario's:
+The aim is to equip students with the Data Science skills and neuroscience principles in order to complete basic AI-modeling scenario's.
 
-* creating a [chat-bot](https://www.digitalocean.com/community/tutorials/how-to-create-an-intelligent-chatbot-in-python-using-the-spacy-nlp-library)
-* creating facial expession [recognition](https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff) 
-* creating [ML-agents](https://www.gocoder.one/blog/introduction-to-unity-ml-agents)
+### AI APPLICATION DOMAINS
+
+| Natural Language Processing | Computer Vision  | Reinforced Learning |
+| --- | --- | --- |
+| creating  [chat-bots](https://www.digitalocean.com/community/tutorials/how-to-create-an-intelligent-chatbot-in-python-using-the-spacy-nlp-library) | creating [facial expession recognition](https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff) | creating [ML-agents](https://www.gocoder.one/blog/introduction-to-unity-ml-agents) |
 
 ***********
 
 # LESSON ZERO: Data Science Basics & JupyterHub Cloud Computing
 
-Basic introduction how to use python as a Data science tool to read in and display (2D) data.
-Explained is the Anscombe Quarted + the relatationship between data  & information.
+## Basic introduction how to use python as a Data science tool to read in and display (2D) data.
+Explained are the Anscombe Quarted + the relatationship between data  & information.
 
 ## Materials 
 Example Python Jupyter Notebooks can be found at: https://github.com/robvdw/Digital-Humans/tree/main/Code/ANSCOMB_QUARTED.
