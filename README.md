@@ -1,5 +1,5 @@
 # Digital-Humans
-How can global digital platforms scale their world-wide services to meet people's needs & wants, within the context of the human condition? Creative industries are addressing this seemingly paradox by developing agent-based solutions [---digital humans---](https://www.youtube.com/watch?v=rF2u7RTPsHI&t=71s) such as intelligent assistants, voice bots and smart objects that can converse convincingly with people  thanks to recent advances in AI-technologies. A prime example of which is the [re:scam-bot](https://www.ddb.co.nz/#rescam) by [Netafe](https://www.ddb.co.nz/).
+How can global digital platforms scale their world-wide services to meet people's needs & wants, within the context of the human condition? Creative industries are addressing this seemingly paradox by developing agent-based solutions [---digital humans---](https://www.youtube.com/watch?v=rF2u7RTPsHI&t=71s) such as intelligent assistants, voice bots and smart objects that can converse convincingly with people  thanks to recent advances in AI-technologies. A prime example of which is the [re:scam-bot](https://www.ddb.co.nz/#rescam) by [Netsafe](https://netsafe.org.nz/scam-tips/#:~:text=Netsafe's%20Guide%20to%20Scam%20Spotting&text=Getting%20told%20there's%20a%20problem,passwords%20to%20your%20online%20accounts).
 
 ![rescam-digital](https://user-images.githubusercontent.com/684692/195643458-84bc50e8-5195-4f80-8195-d7e1cf0c70ad.jpg)
 
@@ -10,9 +10,9 @@ This Do-it-Yourself (DIY) course is designed to provide a basic grounding of AI 
 
 The aim is to equip students with the Data Science skills and neuroscience principles in order to complete basic AI-modeling scenario's:
 
-* creating a chat-bot (natural Laguage processing) [https://www.digitalocean.com/community/tutorials/how-to-create-an-intelligent-chatbot-in-python-using-the-spacy-nlp-library]
-* facial expession recognition (computer vision) [https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff] 
-* ML-agents (reinforcement learning) [https://www.gocoder.one/blog/introduction-to-unity-ml-agents].
+* creating a [chat-bot](https://www.digitalocean.com/community/tutorials/how-to-create-an-intelligent-chatbot-in-python-using-the-spacy-nlp-library)
+* creating facial expession [recognition](https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff) 
+* creating [ML-agents](https://www.gocoder.one/blog/introduction-to-unity-ml-agents)
 
 ***********
 
