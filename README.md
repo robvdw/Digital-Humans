@@ -30,8 +30,9 @@ Example Python Jupyter Notebooks can be found at: https://github.com/robvdw/Digi
 * https://github.com/PacktPublishing/Building-Data-Science-Solutions-with-Anaconda 
 * Creating a Data Fabric through Easy-to-Use Cloud Computing. DCC SURF-Pilot 3de-ronde 2022. http://dx.doi.org/10.13140/RG.2.2.25781.55526
 
-![Intro to Pyton & Data Science](https://user-images.githubusercontent.com/684692/192322105-759d2326-2dfa-4928-b136-c6caf288f1de.jpg)
-![Building Data Science Solutions with Anaconda](https://user-images.githubusercontent.com/684692/192323922-514ebd89-2354-4cdc-8452-e184abe0b99c.jpg)
+
+![Coding_books](https://user-images.githubusercontent.com/684692/195687848-eeb8b9cc-6e25-4ff7-a00c-0055ff1d1d43.png)
+
 
 Online beschibaar via Learning Oreilly database: https://learning.oreilly.com/home/)
 
