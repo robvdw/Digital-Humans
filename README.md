@@ -1,5 +1,8 @@
 # Digital-Humans
-How can global digital platforms scale their world-wide services to meet people's needs & wants, within the context of the human condition? Creative industries are addressing this seemingly paradox by developing agent-based solutions [---digital humans---](https://www.youtube.com/watch?v=rF2u7RTPsHI&t=71s) such as intelligent assistants, voice bots and smart objects that can converse convincingly with people  thanks to recent advances in AI-technologies. A prime example of which is de [re:scam-bot by netsafe](https://www.ddb.co.nz/#rescam).
+How can global digital platforms scale their world-wide services to meet people's needs & wants, within the context of the human condition? Creative industries are addressing this seemingly paradox by developing agent-based solutions [---digital humans---](https://www.youtube.com/watch?v=rF2u7RTPsHI&t=71s) such as intelligent assistants, voice bots and smart objects that can converse convincingly with people  thanks to recent advances in AI-technologies. A prime example of which is the [re:scam-bot](https://www.ddb.co.nz/#rescam) by [Netafe](https://www.ddb.co.nz/).
+
+![rescam-digital](https://user-images.githubusercontent.com/684692/195643458-84bc50e8-5195-4f80-8195-d7e1cf0c70ad.jpg)
+
 ***********
 
 # Goal & Aims
