@@ -5,7 +5,7 @@ How can global digital platforms scale their world-wide services to meet people'
 
 <video src="https://github.com/robvdw/Digital-Humans/blob/main/VIDEOS/RESCAM_VIDEO_2017_3_1.3gp"></video>
 
-
+[https://www.ddb.co.nz/work/rescam/](https://vod-progressive.akamaized.net/exp=1665865946~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F673%2F10%2F253369291%2F989512397.mp4~hmac=6f500ba909d24c349f3672a678b932ffd60ba5ea550c1a698a5e0b3e5b9d6bfb/vimeo-prod-skyfire-std-us/01/673/10/253369291/989512397.mp4)
 
 
 
