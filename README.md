@@ -37,7 +37,7 @@ Example Python Jupyter Notebooks on the the Anscomb Quartet can be found in de [
 * Lesson sheets on [data Science fundamentals](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/ZERO/DATA_SCIENCE_BASICS_SEPT_2022sec..pdf)
 * Medium Blog on [Data versus Information](https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-e54144a509a6)
 * Book: [Intro to Python](https://github.com/pdeitel/IntroToPython) 
-* Book: [Intro to Anaconda 7 Jypyter Notebooks]( https://github.com/PacktPublishing/Building-Data-Science-Solutions-with-Anaconda)
+* Book: [Intro to Anaconda + Jupyter Notebooks]( https://github.com/PacktPublishing/Building-Data-Science-Solutions-with-Anaconda)
 
 Books are available via Learning Oreilly database: https://learning.oreilly.com/home/.
 
@@ -55,8 +55,8 @@ Books are available via Learning Oreilly database: https://learning.oreilly.com/
 
 ## Materials:
 1. Dutch introduction to [the "Human Condition"](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/ONE/THE_HUMAN_CONDITION/CURSUSHANDLEIDING_THE_HUMAN_CONDITION_2022_V01.pdf)
-2. Basic introduction into [Perception](https://docent.cmi.hro.nl/willi/cursus_DESIGN_PSYCHOLOGY/wp-content/uploads/2017/02/DESIGN_PSYCHOLOGY__PERCEPTIE_01_CMDDES0115_1617_V2.pdf)
-3. Dutch introduction on [Visual Illusions](https://www.researchgate.net/publication/339953284_Oog_Brein_Bedrog))
+2. Basic introduction into [Perception](https://docent.cmi.hro.nl/willi/cursus_DESIGN_PSYCHOLOGY/wp-content/uploads/2017/02/DESIGN_PSYCHOLOGY__PERCEPTIE_01_CMDDES0115_1617_V2.pdf) | [Cogintion](https://docent.cmi.hro.nl/willi/cursus_DESIGN_PSYCHOLOGY/wp-content/uploads/2017/02/DESIGN_PSYCHOLOGY_LEVEL_GOOD_COGNITION_CMDDES0115_1617_FIN.pdf) | [Communication & Semotics](https://docent.cmi.hro.nl/willi/cursus_DESIGN_PSYCHOLOGY/wp-content/uploads/2017/02/DESIGN_PSYCHOLOGY_LEVEL_VOLDOENDE_GEDRAG_COMMUNICATION_CMDDES0115_1617_FIN.pdf) | [Theory of Mind (ToM)](https://docent.cmi.hro.nl/willi/cursus_DESIGN_PSYCHOLOGY/wp-content/uploads/2017/02/DESIGN_PSYCHOLOGY_LEVEL_VOLDOENDE_GEDRAG_THEORY_OF_MIND_CMDDES0115_1617_FIN.pdf)
+3. Dutch introduction on [Visual Illusions](https://www.researchgate.net/publication/339953284_Oog_Brein_Bedrog)
 4. Definition of [Modern AI](https://www.researchgate.net/profile/Robert-Van-Der-Willigen-2/publication/352439594_AI_world_wide_web_safari/links/61f843771e98d168d7e13947/AI-world-wide-web-safari.pdf)
 
 ![MENSELIJKE_MAAT_V01](https://user-images.githubusercontent.com/684692/192223957-85e72475-cae6-42c1-895f-fca4f0c53010.png)
