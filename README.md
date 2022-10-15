@@ -14,7 +14,7 @@ How can global digital platforms scale their world-wide services to meet people'
 
 
 # Motto & Educational Paradigm
-Our Motto is ["Don't be evil"](https://quoteinvestigator.com/2018/11/07/no-evil/). We will work in accordance to the "Flip-the-Classroom" Paradigm, hence this Github Repository. How to get non-techical students to "code AI-models" is a subject that is [scarcely researched](https://vu.nl/nl/nieuws/2022/felienne-hermans-nieuwe-hoogleraar-computer-science-education). This is one of the few project that aspires to adress this educational 
+Our Motto is ["Don't be evil"](https://quoteinvestigator.com/2018/11/07/no-evil/). How to get non-techical students to "code AI-models" is a subject that is [scarcely researched](https://vu.nl/nl/nieuws/2022/felienne-hermans-nieuwe-hoogleraar-computer-science-education). We will work in accordance to the "Flip-the-Classroom" Paradigm, to adress this educatiol challange. 
 
 
 ![DONT_BE_EVIL](https://user-images.githubusercontent.com/684692/196005886-9dd78363-6f4b-469f-948b-428fbc2878fa.jpg)
