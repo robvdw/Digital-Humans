@@ -3,7 +3,13 @@ How can global digital platforms scale their world-wide services to meet people'
 
 ![rescam-digital](https://user-images.githubusercontent.com/684692/195643458-84bc50e8-5195-4f80-8195-d7e1cf0c70ad.jpg)
 
-<video src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4"></video>
+<video src="https://github.com/robvdw/Digital-Humans/blob/main/VIDEOS/RESCAM_VIDEO_2017_1.mp4"></video>
+
+[Watch the re:scam video](https://vod-progressive.akamaized.net/exp=1665865946~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F673%2F10%2F253369291%2F989512397.mp4~hmac=6f500ba909d24c349f3672a678b932ffd60ba5ea550c1a698a5e0b3e5b9d6bfb/vimeo-prod-skyfire-std-us/01/673/10/253369291/989512397.mp4)
+
+
+
+
 ***********
 
 # Goal & Aims
