@@ -3,11 +3,7 @@ How can global digital platforms scale their world-wide services to meet people'
 
 ![rescam-digital](https://user-images.githubusercontent.com/684692/195643458-84bc50e8-5195-4f80-8195-d7e1cf0c70ad.jpg)
 
-
-
-
-[![Watch the video](https://user-images.githubusercontent.com/684692/195643458-84bc50e8-5195-4f80-8195-d7e1cf0c70ad.jpg)(https://vod-progressive.akamaized.net/exp=1665861276~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F673%2F10%2F253369291%2F989512397.mp4~hmac=5412b1acbf15a48194af40d9b21e077f16ec10ae1527723634dbc59e70c97009/vimeo-prod-skyfire-std-us/01/673/10/253369291/989512397.mp4)
-
+<video src=""></video>
 ***********
 
 # Goal & Aims
