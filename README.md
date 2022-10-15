@@ -13,9 +13,8 @@ How can global digital platforms scale their world-wide services to meet people'
 ***********
 
 # Goal & Aims
-This Do-It-Yourself (DIY) course is designed to provide a basic grounding of AI based on Data Science principles & practices. In doing so, we provide hands-on experience with cloud computing by providing acces to the [LISA-cluster](https://www.surf.nl/files/2019-03/lisa-compute-cluster.pdf) from the Dutch national compute center SURFsara. That is students get access to data Science coding tools via the [JupyterHub for Education service](https://servicedesk.surf.nl/wiki/display/WIKI/JupyterHub+for+education) of [SURF.nl](https://servicedesk.surf.nl/wiki/).
-
-The aim is to equip students with the Data Science skills and neuroscience principles in order to complete basic AI-modeling scenario's covering NLP, CV and RL.
+This Do-It-Yourself (DIY) course is designed to provide a basic grounding of AI based on Data Science principles & practices. In doing so, we provide hands-on experience with cloud computing by providing acces to the [LISA-cluster](https://www.surf.nl/files/2019-03/lisa-compute-cluster.pdf) from the Dutch national compute center SURFsara. That is students get access to data Science coding tools via the [JupyterHub for Education service](https://servicedesk.surf.nl/wiki/display/WIKI/JupyterHub+for+education) of [SURF.nl](https://servicedesk.surf.nl/wiki/). 
+The details of this [Digital Competence Centre (DCC) pilot project](https://www.surf.nl/digital-competence-center-voor-praktijkgericht-onderzoek) are publisized on [Researchgate](http://dx.doi.org/10.13140/RG.2.2.25781.55526). The aim is to equip students with the Data Science skills and neuroscience principles in order to complete basic AI-modeling scenario's covering NLP, CV and RL.
 
 ### AI APPLICATION DOMAINS
 
