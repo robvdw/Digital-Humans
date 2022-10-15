@@ -24,7 +24,7 @@ The details of this [Digital Competence Centre (DCC) pilot project](https://www.
 
 ***********
 
-# LESSON ZERO: Data Science Basics & JupyterHub Cloud Computing
+# LESSON ZERO: Data Science Basics
 
 ## Basic introduction how to use python as a Data science tool 
 ### ANSCOMB's QUARTET
