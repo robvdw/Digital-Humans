@@ -28,8 +28,8 @@ The aim is to equip students with the Data Science skills and neuroscience princ
 Example Python Jupyter Notebooks on the the Anscomb Quartet can be found in de [coding folder of this repository](https://github.com/robvdw/Digital-Humans/tree/main/Code/ANSCOMB_QUARTED).
 
 * Lesson sheets on [data Science fundamentals](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/ZERO/DATA_SCIENCE_BASICS_SEPT_2022sec..pdf)
-* Blog on [Data vesus Information](https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-e54144a509a6)
-* https://github.com/pdeitel/IntroToPython 
+* Medium Blog on [Data vesus Information](https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-e54144a509a6)
+* Book: [Intro to Python](https://github.com/pdeitel/IntroToPython) 
 * https://github.com/PacktPublishing/Building-Data-Science-Solutions-with-Anaconda 
 * Creating a Data Fabric through Easy-to-Use Cloud Computing. DCC SURF-Pilot 3de-ronde 2022. http://dx.doi.org/10.13140/RG.2.2.25781.55526
 
