@@ -3,7 +3,7 @@ How can global digital platforms scale their world-wide services to meet people'
 
 ![rescam-digital](https://user-images.githubusercontent.com/684692/195643458-84bc50e8-5195-4f80-8195-d7e1cf0c70ad.jpg)
 
-<video src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4"></video>
+<video src="https://github.com/robvdw/Digital-Humans/blob/main/VIDEOS/RESCAM_VIDEO_2017_1.mp4"></video>
 ***********
 
 # Goal & Aims
