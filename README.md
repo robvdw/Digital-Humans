@@ -61,13 +61,14 @@ Books are available via Learning Oreilly database: https://learning.oreilly.com/
 3. Dutch introduction on [Visual Illusions](https://www.researchgate.net/publication/339953284_Oog_Brein_Bedrog)
 4. Defining [Modern AI](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/TWO/DEFINING_AI_OKT_2022.pdf)
 
-
-
 ![MENSELIJKE_MAAT_V01](https://user-images.githubusercontent.com/684692/192223957-85e72475-cae6-42c1-895f-fca4f0c53010.png)
 
 ***********
 
 # LESSON THREE: AI-models versus Machine learning Algorithms
+
+![ALGORITHMS_vs_MODEL_EX02](https://user-images.githubusercontent.com/684692/196051246-6a86dfdf-0de2-4fd3-a627-d8dbff44fb3e.png)
+
 
 ### ALGORITHM versus MODEL
 * In this lession we explore how [Computational Thinking](https://github.com/robvdw/Digital-Humans/files/9795236/Computational_Thinking_WING_2016.pdf)
