@@ -52,8 +52,6 @@ Books are available via Learning Oreilly database: https://learning.oreilly.com/
 # LESSON TWO: Defining AI & the Human Condition
 ## A neuroethological view on today's Artificial intelligence
 
-
-
 ### THE HUMAN CONDITION
 * In this lession we explore how to define AI from the prespective of what us defines as human beings
 
@@ -76,6 +74,7 @@ Books are available via Learning Oreilly database: https://learning.oreilly.com/
 For beginners, these concepts are very confusing as often “machine learning algorithms” are used interchangeably with “AI models.” Are they the same thing or something different?
 
 ## Materials
+
 * https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf
 
 ![STRONG vs WEAK AI](https://github.com/robvdw/Digital-Humans/blob/main/FIGs/GOFAIvsWEAK_AI.png)
