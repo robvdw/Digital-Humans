@@ -21,6 +21,10 @@ The details of this [Digital Competence Centre (DCC) pilot project](https://www.
 
 ### AI APPLICATION DOMAINS
 
+![CYBERNETICS](https://user-images.githubusercontent.com/684692/196029775-3b67edab-5368-49b9-9969-78e1275538d0.png)
+
+
+
 | Natural Language Processing [NLP] | Computer Vision [CV]  | Reinforced Learning [RL]|
 | --- | --- | --- |
 | creating  [chat-bots](https://www.digitalocean.com/community/tutorials/how-to-create-an-intelligent-chatbot-in-python-using-the-spacy-nlp-library) | creating [facial expession recognition](https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff) | creating [ML-agents](https://www.gocoder.one/blog/introduction-to-unity-ml-agents) |
