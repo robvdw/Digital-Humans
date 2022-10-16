@@ -23,8 +23,6 @@ The details of this [Digital Competence Centre (DCC) pilot project](https://www.
 
 ![CYBERNETICS](https://user-images.githubusercontent.com/684692/196029775-3b67edab-5368-49b9-9969-78e1275538d0.png)
 
-
-
 | Natural Language Processing [NLP] | Computer Vision [CV]  | Reinforced Learning [RL]|
 | --- | --- | --- |
 | creating  [chat-bots](https://www.digitalocean.com/community/tutorials/how-to-create-an-intelligent-chatbot-in-python-using-the-spacy-nlp-library) | creating [facial expession recognition](https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff) | creating [ML-agents](https://www.gocoder.one/blog/introduction-to-unity-ml-agents) |
@@ -72,6 +70,11 @@ Books are available via Learning Oreilly database: https://learning.oreilly.com/
 ***********
 
 # LESSON THREE: AI-models versus Machine learning Algorithms
+
+### ALGORITHM versus MODEL
+* In this lession we explore the use of two fundamental concepts used to describe modern AI-applications: models & algorithms 
+For beginners, this is very confusing as often “machine learning algorithm” is used interchangeably with “machine learning model.” Are they the same thing or something different?
+
 ## Materials
 * https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf
 
@@ -86,15 +89,8 @@ Books are available via Learning Oreilly database: https://learning.oreilly.com/
 
 * chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
-
-
-
 ![image-3-1024x791](https://user-images.githubusercontent.com/684692/195064916-25740f3e-152b-47ed-a60a-0c80ab14a159.png)
 
-
 ![Backpropagation](https://user-images.githubusercontent.com/684692/195069496-9aa25ea1-6428-4728-a2b6-39763f9e3039.gif)
-
-
-
 
 ![PERCEPTRON](https://user-images.githubusercontent.com/684692/192339790-df629728-b510-4a5d-bf11-e31ecd5394ef.png)
