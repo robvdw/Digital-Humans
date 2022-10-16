@@ -1,0 +1,76 @@
+Difference Between Algorithm and Model in Machine Learning
+
+Yahya Abi HaidarClick here to view Yahya Abi Haidar’s profile
+Yahya Abi Haidar
+Software Developer at nybl | 7k+ followers
+Published Feb 2, 2021
++ Follow
+Do you know what is the difference Between Algorithm and Model in Machine Learning? ?? If not, check out below what are Algorithm and Model in Machine Learning, how do they differ from each other and more. ??
+
+What Is an “Algorithm” in Machine Learning
+An “algorithm” in machine learning is a procedure that is run on data to create a machine learning “model.” It is commonly said to be fit on a dataset which means it is applied on the dataset.
+
+There are many types of algorithms with many different functions and purposes. The three main ones are:
+
+Regression: Used to make predictions where the output is a continuous value, such as logistic regression.
+Classification: are those algorithms that are used to classify between the categorical values. 
+Clustering: Used to group similar items or clustered data points, such as K-Means.
+What Is a “Model” in Machine Learning
+A “model” in machine learning is the output of a machine learning algorithm run on data.It represents what has been learned from “learning” the algorithm on the data and contains a specific set of functionality of the algorithm.
+
+The model can be saved for later and acts as a program, using the previously stored functionality of the algorithm to make new predictions. If the model is trained efficiently and sufficiently, it can be used to make many more predictions on similar data with a certain level of precision and confidence.
+
+The best analogy is to think of the machine learning model as a “program.”
+
+The Difference Between Algorithm and Model
+Now as we know what an algorithm and a model in machine learning are, so it’s easier to see how they relate. As mentioned earlier, an algorithm is run on data to create a model.
+
+This model includes both data and a procedure for using the data to predict new data. The process is just like an algorithm.
+
+Machine Learning Model == Model Data + Prediction Algorithm
+
+However, not all models store a prediction algorithm. Some, like the k nearest neighbours, store the dataset that serves as a prediction algorithm. This is all based on your model’s goal, however.
+
+We want a machine learning model and don’t care as much about the algorithm behind it. However, it is important to know which algorithm to apply to your model for the best results. But once you know that, there are only a few lines of code and a few levels of interaction left before you have a perfectly working model.
+
+Let me give you an example.
+
+y=w0+w1x
+
+You might be knowing that this is an equation of a line, where w0 corresponds to the y-intercept and w1 corresponds to slope of the line.
+
+This is nothing but the equation of linear regression with one variable.
+
+Similarly every algorithm has some mathematical form underneath it, which when implemented in a machine developed to form a machine learning algorithm.
+
+Now coming to defining a model.
+
+In the above equation, you cannot find y if you don’t know w0 and w1. So how to find it? Suppose you are given a set of sample data, say 2 values of x and y, then certainly you can find the slope by slope-point form. Again let’s take the 2 points be (x1,y1)(1,1) and (x2,y2)=(2,2)
+
+Now by slope-point form we can find w1 for which the formula is
+
+w1=y1?y2x1?x2
+
+So, w1=?1
+
+Now by substituting it in the above equation we can get w0=0
+
+By all this calculation, we have an equation,
+
+y=0+(?1)x
+
+This is a model.
+
+So we can now say that a model is an equation which is formed by finding out the parameters (w0,w1) in the equation of the algorithm. And you create a model using some data, in this case, the two points which we helped us calculate w0,w1. This is called training a model.
+
+Now we can find any value of y given a new value of x. This is how prediction takes place using algorithms.
+
+Summary
+Algorithms are methods or procedures taken in other to get a task done or solve a problem, while Models are well-defined computations formed as a result of an algorithm that takes some value, or set of values, as input and produces some value, or set of values as output.
+
+In this article, you discovered the difference between machine learning “algorithms” and “models.”
+
+Specifically, you learned:
+
+Machine learning algorithms are procedures that are implemented in code and are run on data.
+Machine learning models are output by algorithms and are comprised of model data and a prediction algorithm.
