@@ -104,7 +104,9 @@ Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural networ
 
 * [Lesson sheets 3 + 4: AI models vs ML Algorithms](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/MODELS_vs_ALGORITHMS/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf)
 
-* [Pandas Python-coding cheet-sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+* [Pandas.org  Python-coding chaet-sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+* [Numpy.org quickstart](https://numpy.org/devdocs/user/quickstart.html)
 
 * [Perceptron basics](https://julienbeaulieu.gitbook.io/wiki/sciences/machine-learning/neural-networks/perceptron-algorithm)
 
