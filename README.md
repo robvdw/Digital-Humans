@@ -79,11 +79,9 @@ For beginners, these concepts are very confusing as often “machine learning al
 ![ALGORITHMS_vs_MODEL_EX02](https://user-images.githubusercontent.com/684692/196051246-6a86dfdf-0de2-4fd3-a627-d8dbff44fb3e.png)
 
 ## Materials
-
 Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural network modelling](https://github.com/robvdw/Digital-Humans/tree/main/Code/PERCEPTRON) can be found in de coding folder of this repository.
 
 * [Lesson sheets 3 + 4: AI models vs ML Algorithms](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/MODELS_vs_ALGORITHMS/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf)
-
 
 
 ***********
@@ -91,16 +89,18 @@ Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural networ
 
 # LESSON FOUR: Machine Learning
 
-### Learn How to Train Neural Networks With Your Own Data
+### Learn How to Train Neural Networks With Your Python code
 * In this lesson we explore how to convert pseudo code of the perceptron algorithm can be transformed into a Python Jupyter Notebook.  
 
+![PERCEPTRON](https://user-images.githubusercontent.com/684692/192339790-df629728-b510-4a5d-bf11-e31ecd5394ef.png)
+
+## Materials
+Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural network modelling](https://github.com/robvdw/Digital-Humans/tree/main/Code/PERCEPTRON) can be found in de coding folder of this repository.
 
 * https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/CODING-PERCEPTRON-IN-PYTHON.pdf
 
 * chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
-![image-3-1024x791](https://user-images.githubusercontent.com/684692/195064916-25740f3e-152b-47ed-a60a-0c80ab14a159.png)
 
-![Backpropagation](https://user-images.githubusercontent.com/684692/195069496-9aa25ea1-6428-4728-a2b6-39763f9e3039.gif)
 
-![PERCEPTRON](https://user-images.githubusercontent.com/684692/192339790-df629728-b510-4a5d-bf11-e31ecd5394ef.png)
+
