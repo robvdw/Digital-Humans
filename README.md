@@ -70,7 +70,8 @@ Books are available via Learning Oreilly database: https://learning.oreilly.com/
 # LESSON THREE: AI-models versus Machine learning Algorithms
 
 ### ALGORITHM versus MODEL
-* In this lession we explore how computational-thinking can help to understand two fundamental concepts used to describe modern AI-applications: models & algorithms.
+* In this lession we explore how [Computational Thinking](https://github.com/robvdw/Digital-Humans/files/9795236/Computational_Thinking_WING_2016.pdf)
+can help to understand two fundamental concepts used to describe modern AI-applications: models & algorithms.
 For beginners, these concepts are very confusing as often “machine learning algorithms” are used interchangeably with “AI models.” Are they the same thing or something different?
 
 ## Materials
