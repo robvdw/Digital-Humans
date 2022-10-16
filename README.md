@@ -80,8 +80,7 @@ For beginners, these concepts are very confusing as often “machine learning al
 
 ## Materials
 
-* https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf
-[LESSON_03+04_Digital_Humans_Part01_V02.pdf](https://github.com/robvdw/Digital-Humans/files/9795387/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf)
+* [Lesson sheets 3 + 4: AI models vs ML Algorithms](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/MODELS_vs_ALGORITHMS/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf)
 
 
 
