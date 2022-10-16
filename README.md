@@ -108,6 +108,8 @@ Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural networ
 
 * [Perceptron basics](https://julienbeaulieu.gitbook.io/wiki/sciences/machine-learning/neural-networks/perceptron-algorithm)
 
+* Book: [Beale, R., & Jackson, T. (1990). Neural Computing-an introduction. CRC Press](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/PERCEPTRON/Neural_Computing_An_Introduction.pdf)
+
 
 
 
