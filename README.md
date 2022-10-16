@@ -104,6 +104,8 @@ Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural networ
 
 * [Pandas Python-coding cheet-sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
+* [Perceptron basics](https://julienbeaulieu.gitbook.io/wiki/sciences/machine-learning/neural-networks/perceptron-algorithm)
+
 
 
 
