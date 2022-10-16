@@ -8,6 +8,7 @@ How can global digital platforms scale their world-wide services to meet people'
 [Watch the re:scam video](https://vod-progressive.akamaized.net/exp=1665865946~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F673%2F10%2F253369291%2F989512397.mp4~hmac=6f500ba909d24c349f3672a678b932ffd60ba5ea550c1a698a5e0b3e5b9d6bfb/vimeo-prod-skyfire-std-us/01/673/10/253369291/989512397.mp4)
 
 ***********
+***********
 
 # Educational Challenge & Motto
 How to get non-techical students to employ and adjust exsisting "AI-models" is a subject that is [scarcely researched](https://vu.nl/nl/nieuws/2022/felienne-hermans-nieuwe-hoogleraar-computer-science-education). We will work in accordance to the "Flip-the-Classroom" Paradigm, to address this educational challenge. Our Motto is ["Do No Harm"](https://www.technologyreview.com/2018/06/07/142429/dont-be-ai-vil-google-says-its-algorithms-will-do-no-harm/).
@@ -27,6 +28,7 @@ The details of this [Digital Competence Centre (DCC) pilot project](https://www.
 | --- | --- | --- |
 | creating  [chat-bots](https://www.digitalocean.com/community/tutorials/how-to-create-an-intelligent-chatbot-in-python-using-the-spacy-nlp-library) | creating [facial expession recognition](https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff) | creating [ML-agents](https://www.gocoder.one/blog/introduction-to-unity-ml-agents) |
 
+***********
 ***********
 
 # LESSON ZERO: Data Science Basics
@@ -48,6 +50,7 @@ Books are available via Learning Oreilly database: https://learning.oreilly.com/
 ![Coding_books](https://user-images.githubusercontent.com/684692/195687848-eeb8b9cc-6e25-4ff7-a00c-0055ff1d1d43.png)
 
 ***********
+***********
 
 # LESSON TWO: Defining AI & the Human Condition
 ## A neuroethological view on today's Artificial intelligence
@@ -64,23 +67,25 @@ Books are available via Learning Oreilly database: https://learning.oreilly.com/
 ![MENSELIJKE_MAAT_V01](https://user-images.githubusercontent.com/684692/192223957-85e72475-cae6-42c1-895f-fca4f0c53010.png)
 
 ***********
+***********
 
 # LESSON THREE: AI-models versus Machine learning Algorithms
 
-![ALGORITHMS_vs_MODEL_EX02](https://user-images.githubusercontent.com/684692/196051246-6a86dfdf-0de2-4fd3-a627-d8dbff44fb3e.png)
-
-
 ### ALGORITHM versus MODEL
-* In this lession we explore how [Computational Thinking](https://github.com/robvdw/Digital-Humans/files/9795236/Computational_Thinking_WING_2016.pdf)
+* In this lesson we explore how [Computational Thinking](https://github.com/robvdw/Digital-Humans/files/9795236/Computational_Thinking_WING_2016.pdf)
 can help to understand two fundamental concepts used to describe modern AI-applications: models & algorithms.
 For beginners, these concepts are very confusing as often “machine learning algorithms” are used interchangeably with “AI models.” Are they the same thing or something different?
+
+![ALGORITHMS_vs_MODEL_EX02](https://user-images.githubusercontent.com/684692/196051246-6a86dfdf-0de2-4fd3-a627-d8dbff44fb3e.png)
 
 ## Materials
 
 * https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf
+[LESSON_03+04_Digital_Humans_Part01_V02.pdf](https://github.com/robvdw/Digital-Humans/files/9795387/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf)
 
-![STRONG vs WEAK AI](https://github.com/robvdw/Digital-Humans/blob/main/FIGs/GOFAIvsWEAK_AI.png)
 
+
+***********
 ***********
 
 # LESSON FOUR: Machine Learning
