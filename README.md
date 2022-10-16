@@ -72,8 +72,8 @@ Books are available via Learning Oreilly database: https://learning.oreilly.com/
 # LESSON THREE: AI-models versus Machine learning Algorithms
 
 ### ALGORITHM versus MODEL
-* In this lession we explore the use of two fundamental concepts used to describe modern AI-applications: models & algorithms 
-For beginners, this is very confusing as often “machine learning algorithm” is used interchangeably with “machine learning model.” Are they the same thing or something different?
+* In this lession we explore the use of two fundamental concepts used to describe modern AI-applications: models & algorithms.
+For beginners, these concepts are very confusing as often “machine learning algorithms” are used interchangeably with “AI models.” Are they the same thing or something different?
 
 ## Materials
 * https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf
