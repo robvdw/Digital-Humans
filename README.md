@@ -90,16 +90,19 @@ Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural networ
 # LESSON FOUR: Machine Learning
 
 ### Learn How to Train Neural Networks With Your Python code
-* In this lesson we explore how to convert pseudo code of the perceptron algorithm can be transformed into a Python Jupyter Notebook.  
+* In this lesson we explore how to convert pseudo code of the perceptron "Machine Learning" algorithm can be transformed into a Python Jupyter Notebook.  We will learn how to create Pandas DataFrames that can be easily changed and manipulated. In particular we will focus on the maths hehind the dot-product function, needed to code a perceptron.
 
 ![PERCEPTRON](https://user-images.githubusercontent.com/684692/192339790-df629728-b510-4a5d-bf11-e31ecd5394ef.png)
+
+![matrix_vector_dot_product](https://user-images.githubusercontent.com/684692/196052692-1141a6ff-d298-472b-ab0c-a5362db58ff7.png)
+
 
 ## Materials
 Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural network modelling](https://github.com/robvdw/Digital-Humans/tree/main/Code/PERCEPTRON) can be found in de coding folder of this repository.
 
-* https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/CODING-PERCEPTRON-IN-PYTHON.pdf
+* [Lesson sheets 3 + 4: AI models vs ML Algorithms](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/MODELS_vs_ALGORITHMS/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf)
 
-* chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+* [Pandas Python-coding cheet-sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 
 
