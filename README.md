@@ -10,7 +10,7 @@ How can global digital platforms scale their world-wide services to meet people'
 ***********
 
 # Educational Challenge & Motto
-How to get non-techical students to employ and adjust exsisting "AI-models" is a subject that is [scarcely researched](https://vu.nl/nl/nieuws/2022/felienne-hermans-nieuwe-hoogleraar-computer-science-education). We will work in accordance to the "Flip-the-Classroom" Paradigm, to address this educational challenge. Our Motto is ["Do No Harm"](https://quoteinvestigator.com/2018/11/07/no-evil/).
+How to get non-techical students to employ and adjust exsisting "AI-models" is a subject that is [scarcely researched](https://vu.nl/nl/nieuws/2022/felienne-hermans-nieuwe-hoogleraar-computer-science-education). We will work in accordance to the "Flip-the-Classroom" Paradigm, to address this educational challenge. Our Motto is ["Do No Harm"](https://www.technologyreview.com/2018/06/07/142429/dont-be-ai-vil-google-says-its-algorithms-will-do-no-harm/).
 
 ![DO_NO_HARM_BOOK](https://user-images.githubusercontent.com/684692/196028104-c925d541-ce64-4346-a491-484854eada68.jpg)
 
