@@ -90,12 +90,13 @@ Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural networ
 # LESSON FOUR: Machine Learning
 
 ### Learn How to Train Neural Networks With Your Python code
-* In this lesson we explore how to convert pseudo code of the perceptron "Machine Learning" algorithm can be transformed into a Python Jupyter Notebook.  We will learn how to create Pandas DataFrames that can be easily changed and manipulated. In particular we will focus on the maths hehind the dot-product function, needed to code a perceptron.
+* In this lesson we explore how to convert pseudo code of the perceptron "Machine Learning" algorithm can be transformed into a Python Jupyter Notebook.  We will learn how to create Pandas DataFrames that can be easily changed and manipulated. In particular we will focus on the maths hehind the dot-product function, needed to code the artificial neural network architecture op the perceptron "classifiaction Model".
 
 ![PERCEPTRON](https://user-images.githubusercontent.com/684692/192339790-df629728-b510-4a5d-bf11-e31ecd5394ef.png)
 
 ![matrix_vector_dot_product](https://user-images.githubusercontent.com/684692/196052692-1141a6ff-d298-472b-ab0c-a5362db58ff7.png)
 
+![PSEUDO_CODE_PERCEPTRON](https://user-images.githubusercontent.com/684692/196053463-8e1582bc-e8e0-4491-94d5-afa6bb7be006.png)
 
 ## Materials
 Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural network modelling](https://github.com/robvdw/Digital-Humans/tree/main/Code/PERCEPTRON) can be found in de coding folder of this repository.
