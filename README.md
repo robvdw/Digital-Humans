@@ -116,7 +116,9 @@ Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural networ
 ## Dot Product Algebra
 ![matrix_vector_dot_product](https://user-images.githubusercontent.com/684692/196052692-1141a6ff-d298-472b-ab0c-a5362db58ff7.png)
 
-![1_C5LeL8JDfoGbkUg0cu1M-w](https://user-images.githubusercontent.com/684692/196260363-4999c5ff-16f5-42e8-bde0-6d90896fc7e2.png)
+
+![linear-function-adaline](https://user-images.githubusercontent.com/684692/196263265-56c95294-1625-455c-bdb7-9c0fb6896af5.png)
+
 
 
 ## Perceptron Learning Algorithm [PSEUDO-CODE]
