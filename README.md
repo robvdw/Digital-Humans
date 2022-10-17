@@ -117,7 +117,8 @@ Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural networ
 ![matrix_vector_dot_product](https://user-images.githubusercontent.com/684692/196052692-1141a6ff-d298-472b-ab0c-a5362db58ff7.png)
 
 
-![linear-function-adaline](https://user-images.githubusercontent.com/684692/196263265-56c95294-1625-455c-bdb7-9c0fb6896af5.png)
+
+![image](https://user-images.githubusercontent.com/684692/196267347-42f22eb6-a8f8-4ee2-b6dc-23a0e1bd18ec.png)
 
 
 
