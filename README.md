@@ -49,7 +49,11 @@ The details of this [Digital Competence Centre (DCC) pilot project](https://www.
 
 ## Basic introduction how to use python as a Data science tool 
 ### ANSCOMB's QUARTET
-* Explained are the Anscombe Quarted in combination with  the distiction between data & information.
+
+![1_n51qNSyc4C12cCNdtoicoA](https://user-images.githubusercontent.com/684692/196254596-598a91b4-896c-4d59-b3d0-b061645501b6.png)
+
+
+* Explained are the [Anscombe Quarted](https://github.com/robvdw/Digital-Humans/tree/main/Code/ANSCOMB_QUARTED) in combination with  the distiction between data & information.
 
 ## Materials 
 Example Python Jupyter Notebooks on the the Anscomb Quartet can be found in de [coding folder of this repository](https://github.com/robvdw/Digital-Humans/tree/main/Code/ANSCOMB_QUARTED).
@@ -112,15 +116,11 @@ Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural networ
 ## Dot Product Algebra
 ![matrix_vector_dot_product](https://user-images.githubusercontent.com/684692/196052692-1141a6ff-d298-472b-ab0c-a5362db58ff7.png)
 
+## Perceptron Learning Algorithm [PSEUDO-CODE]
 
-***********
-***********
-## Perceptron Learning Algorithm
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+![image](https://user-images.githubusercontent.com/684692/196256355-7b2278a3-136a-45dd-b5eb-04fe9ac79266.png)
+
+
 ***********
 ***********
 
