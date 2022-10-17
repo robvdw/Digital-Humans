@@ -22,6 +22,12 @@ $$
 
 # $${\left\lbrack \matrix{a & b \cr c & d} \right\rbrack} * \left\lbrack \matrix{x \cr y} \right\rbrack = \left\lbrack \matrix{a \cdot x & + & b \cdot y \cr c \cdot x & + & d \cdot y} \right\rbrack$$
 
+# $$\sum_{n=1}^n n = {n \over 2} (n + 1) $$
+ 
+# $$\sum_{n=1}^n n^2 = {n \over 6} (n + 1)(2n + 1) $$
+
+
+
 # Digital-Humans
 How can global digital platforms scale their world-wide services to meet people's needs & wants, within the context of the human condition? Creative industries are addressing this seemingly paradox by developing agent-based solutions [---digital humans---](https://www.youtube.com/watch?v=rF2u7RTPsHI&t=71s) such as intelligent assistants, voice bots and smart objects that can converse convincingly with people  thanks to recent advances in AI-technologies. A prime example of a digital human is the [re:scam-bot](https://www.ddb.co.nz/#rescam) by [Netsafe](https://netsafe.org.nz/scam-tips/#:~:text=Netsafe's%20Guide%20to%20Scam%20Spotting&text=Getting%20told%20there's%20a%20problem,passwords%20to%20your%20online%20accounts).
 
