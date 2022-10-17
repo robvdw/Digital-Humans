@@ -11,22 +11,36 @@ How can global digital platforms scale their world-wide services to meet people'
 ***********
 
 # Educational Challenge & Motto
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/684692/196028104-c925d541-ce64-4346-a491-484854eada68.jpg" width=50% height=50%>
+</p>
+
 How to get non-techical students to employ and adjust exsisting "AI-models" is a subject that is [scarcely researched](https://vu.nl/nl/nieuws/2022/felienne-hermans-nieuwe-hoogleraar-computer-science-education). We will work in accordance to the "Flip-the-Classroom" Paradigm, to address this educational challenge. Our Motto is ["Do No Harm"](https://www.technologyreview.com/2018/06/07/142429/dont-be-ai-vil-google-says-its-algorithms-will-do-no-harm/).
 
-![DO_NO_HARM_BOOK](https://user-images.githubusercontent.com/684692/196028104-c925d541-ce64-4346-a491-484854eada68.jpg)
+
+***********
+***********
 
 
 # Goal & Aims
-This Do-It-Yourself (DIY) course is designed to provide a basic grounding of AI based on Data Science principles & practices. In doing so, we provide hands-on experience with cloud computing by providing acces to the [LISA-cluster](https://www.surf.nl/files/2019-03/lisa-compute-cluster.pdf) from the Dutch national compute center SURFsara. That is students get access to data Science coding tools via the [JupyterHub for Education service](https://servicedesk.surf.nl/wiki/display/WIKI/JupyterHub+for+education) of [SURF.nl](https://servicedesk.surf.nl/wiki/). 
-The details of this [Digital Competence Centre (DCC) pilot project](https://www.surf.nl/digital-competence-center-voor-praktijkgericht-onderzoek) are publisized on [Researchgate](http://dx.doi.org/10.13140/RG.2.2.25781.55526). The aim is to equip students with the Data Science skills and neuroscience principles in order to complete basic AI-modeling scenario's covering NLP, CV and RL.
-
-### AI APPLICATION DOMAINS
 
 ![CYBERNETICS](https://user-images.githubusercontent.com/684692/196029775-3b67edab-5368-49b9-9969-78e1275538d0.png)
 
-| Natural Language Processing [NLP] | Computer Vision [CV]  | Reinforced Learning [RL]|
+This Do-It-Yourself (DIY) course is designed to provide a basic grounding of AI based on Data Science principles & practices. In doing so, we provide hands-on experience with cloud computing by providing acces to the [LISA-cluster](https://www.surf.nl/files/2019-03/lisa-compute-cluster.pdf) from the Dutch national compute center SURFsara. That is students get access to data Science coding tools via the [JupyterHub for Education service](https://servicedesk.surf.nl/wiki/display/WIKI/JupyterHub+for+education) of [SURF.nl](https://servicedesk.surf.nl/wiki/). 
+The details of this [Digital Competence Centre (DCC) pilot project](https://www.surf.nl/digital-competence-center-voor-praktijkgericht-onderzoek) are publisized on [Researchgate](http://dx.doi.org/10.13140/RG.2.2.25781.55526).
+
+## AI APPLICATION DOMAINS
+
+ The aim is to equip students with the Data Science skills and neuroscience principles in order to complete basic AI-modeling scenario's covering NLP, CV and RL.
+
+<div align="center">
+
+|   Natural Language Processing [NLP]   |   Computer Vision [CV]    |    Reinforced Learning [RL]    |
 | --- | --- | --- |
 | creating  [chat-bots](https://www.digitalocean.com/community/tutorials/how-to-create-an-intelligent-chatbot-in-python-using-the-spacy-nlp-library) | creating [facial expession recognition](https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff) | creating [ML-agents](https://www.gocoder.one/blog/introduction-to-unity-ml-agents) |
+
+</div>
 
 ***********
 ***********
@@ -92,11 +106,23 @@ Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural networ
 ### Learn How to Train Neural Networks With Your Python code
 * In this lesson we explore how pseudo code of the perceptron "Machine Learning" algorithm can be transformed into a Python Jupyter Notebook.  We will learn how to create Pandas DataFrames that can be easily changed and manipulated. In particular we will focus on the maths hehind the dot-product function, needed to code the artificial neural network architecture op the perceptron "classifiaction Model".
 
+## Neural Computation
 ![PERCEPTRON](https://user-images.githubusercontent.com/684692/192339790-df629728-b510-4a5d-bf11-e31ecd5394ef.png)
 
+## Dot Product Algebra
 ![matrix_vector_dot_product](https://user-images.githubusercontent.com/684692/196052692-1141a6ff-d298-472b-ab0c-a5362db58ff7.png)
-![image](https://user-images.githubusercontent.com/684692/196053932-ce2dc7e2-20b9-4d54-86c3-d66fce39def2.png)
 
+
+***********
+***********
+## Perceptron Learning Algorithm
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+***********
+***********
 
 
 ## Materials
