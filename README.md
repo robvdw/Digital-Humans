@@ -1,4 +1,8 @@
+<!--
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+-->
 
+************
 # Digital-Humans
 How can digital platforms scale their world-wide services to meet people's needs & wants, within the context of the human condition?
 <p align="center">
@@ -7,14 +11,14 @@ How can digital platforms scale their world-wide services to meet people's needs
 
 
 Creative industries  address this "humanizing cyber" paradox by developing agent-based solutions [---digital humans---](https://www.youtube.com/watch?v=rF2u7RTPsHI&t=71s) such as intelligent assistants, voice bots and smart objects that can converse convincingly with people  thanks to recent advances in AI-technologies. A prime example of a digital human is the [re:scam-bot](https://www.ddb.co.nz/#rescam) by [Netsafe](https://netsafe.org.nz/scam-tips/#:~:text=Netsafe's%20Guide%20to%20Scam%20Spotting&text=Getting%20told%20there's%20a%20problem,passwords%20to%20your%20online%20accounts).
-
+<br> <br>
 ***********
 
 ## Educational Challenge & [Motto](https://fsymbols.com/text-art/)
 
 How to get non-technical students to employ and adjust existing "AI-models" is a subject that is [scarcely researched](https://vu.nl/nl/nieuws/2022/felienne-hermans-nieuwe-hoogleraar-computer-science-education). We will work in accordance to the "Flip-the-Classroom" Paradigm, to address this educational challenge. Our Motto is ["Do No Harm"](https://www.technologyreview.com/2018/06/07/142429/dont-be-ai-vil-google-says-its-algorithms-will-do-no-harm/).
 
-
+<br> <br>
 <div align="center">
 ██████╗░░█████╗░  ███╗░░██╗░█████╗░  ██╗░░██╗░█████╗░██████╗░███╗░░░███╗██╗
 ██╔══██╗██╔══██╗  ████╗░██║██╔══██╗  ██║░░██║██╔══██╗██╔══██╗████╗░████║██║
@@ -23,7 +27,8 @@ How to get non-technical students to employ and adjust existing "AI-models" is a
 ██████╔╝╚█████╔╝  ██║░╚███║╚█████╔╝  ██║░░██║██║░░██║██║░░██║██║░╚═╝░██║██╗
 ╚═════╝░░╚════╝░  ╚═╝░░╚══╝░╚════╝░  ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝
 </div>
- 
+
+<br> <br>
 ***********
 
 ## Goal & Aims
@@ -32,9 +37,13 @@ How to get non-technical students to employ and adjust existing "AI-models" is a
 <img src="https://user-images.githubusercontent.com/684692/196029775-3b67edab-5368-49b9-9969-78e1275538d0.png"  width=70% height=70%>
 <p align="center">
 
+<br> 
+ 
 This Do-It-Yourself (DIY) course is designed to provide a basic grounding of AI based on Data Science principles & practices. In doing so, we provide hands-on experience with cloud computing by providing access to the [LISA-cluster](https://www.surf.nl/files/2019-03/lisa-compute-cluster.pdf) from the Dutch national compute centre [SURFsara](https://nl.wikipedia.org/wiki/SURFsara). That is, students get access to data Science coding tools via the [JupyterHub for Education service](https://servicedesk.surf.nl/wiki/display/WIKI/JupyterHub+for+education) of [SURF.nl](https://servicedesk.surf.nl/wiki/).
 The details of this [Digital Competence Centre (DCC) pilot project](https://www.surf.nl/digital-competence-center-voor-praktijkgericht-onderzoek) are publicized on [Researchgate](http://dx.doi.org/10.13140/RG.2.2.25781.55526).
 
+<br>
+ 
 ***********
  
 ## AI-application Modalities
@@ -52,31 +61,35 @@ The details of this [Digital Competence Centre (DCC) pilot project](https://www.
 </div>
 <br> <br>
 
+<br> <br>
 ***********
 
 ## LESSON ZERO: Data Science Basics
 
-#### Basic introduction how to use python as a Data science tool
-##### ANSCOMB's QUARTET
+#### Basic introduction how to use python as a Data science tool [ANSCOMB's QUARTET]
 Explained are the [Anscombe Quarted](https://github.com/robvdw/Digital-Humans/tree/main/Code/ANSCOMB_QUARTED) in combination with  the distinction between [data & information](https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-e54144a509a6).
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/684692/196254596-598a91b4-896c-4d59-b3d0-b061645501b6.png" width=80% height=80%>
 <p align="center">
 
-#### Materials
+### Materials
 Example Python Jupyter Notebooks on the Anscombe's Quartet can be found in de [coding folder of this repository](https://github.com/robvdw/Digital-Humans/tree/main/Code/ANSCOMB_QUARTED).
 
 * Lesson sheets on [data Science fundamentals](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/ZERO/DATA_SCIENCE_BASICS_SEPT_2022sec..pdf)
 * Medium Blog on [Data versus Information](https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-e54144a509a6)
+ 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/684692/195687848-eeb8b9cc-6e25-4ff7-a00c-0055ff1d1d43.png" width=80% height=80%>
 <p align="center">
+ 
+Books are available via Learning Oreilly database: https://learning.oreilly.com/home/:
+ 
 * Book: [Intro to Python](https://github.com/pdeitel/IntroToPython)
 * Book: [Intro to Anaconda + Jupyter Notebooks]( https://github.com/PacktPublishing/Building-Data-Science-Solutions-with-Anaconda)
 
-Books are available via Learning Oreilly database: https://learning.oreilly.com/home/.
-
+<br>
+ 
 ***********
 
 ## LESSON TWO: Defining AI & the Human Condition
@@ -93,6 +106,7 @@ In this lesson we explore how to define AI from the perspective of what us defin
 <img src="https://user-images.githubusercontent.com/684692/192223957-85e72475-cae6-42c1-895f-fca4f0c53010.png" width=90% height=90%>
 <p align="center">
 
+<br> <br>
 ***********
 
 ## LESSON THREE: AI-models versus Machine learning Algorithms
@@ -104,11 +118,12 @@ For beginners, these concepts are very confusing as often “machine learning al
 
 ![ALGORITHMS_vs_MODEL_EX02](https://user-images.githubusercontent.com/684692/196051246-6a86dfdf-0de2-4fd3-a627-d8dbff44fb3e.png)
 
-#### Materials
+### Materials
 Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural network modelling](https://github.com/robvdw/Digital-Humans/tree/main/Code/PERCEPTRON) can be found in de coding folder of this repository.
 
 * [Lesson sheets 3 + 4: AI models vs ML Algorithms](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/MODELS_vs_ALGORITHMS/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf)
 
+<br> <br>
 ***********
 
 ## LESSON FOUR: Machine Learning
@@ -136,12 +151,10 @@ https://medium.com/analytics-vidhya/writing-math-equations-in-jupyter-notebook-a
 
 ![image](https://user-images.githubusercontent.com/684692/196256355-7b2278a3-136a-45dd-b5eb-04fe9ac79266.png)
 
-
+<br> <br>
 ***********
-***********
 
-
-#### Materials
+### Materials
 Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural network modelling](https://github.com/robvdw/Digital-Humans/tree/main/Code/PERCEPTRON) can be found in de coding folder of this repository.
 
 * [Lesson sheets 3 + 4: AI models vs ML Algorithms](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/MODELS_vs_ALGORITHMS/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf)
