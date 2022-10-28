@@ -64,7 +64,10 @@ The details of this [Digital Competence Centre (DCC) pilot project](https://www.
 <br> <br>
 ***********
 
-## LESSON ZERO: Data Science Basics
+<details>
+ <summary><h3>LESSON ZERO: Basic Data Science</h3></summary>
+
+## Data Science Basics
 
 #### Basic introduction how to use python as a Data science tool [ANSCOMB's QUARTET]
 Explained are the [Anscombe Quarted](https://github.com/robvdw/Digital-Humans/tree/main/Code/ANSCOMB_QUARTED) in combination with  the distinction between [data & information](https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-e54144a509a6).
@@ -91,8 +94,13 @@ Books are available via Learning Oreilly database: https://learning.oreilly.com/
 <br>
  
 ***********
+</details>
 
-## LESSON TWO: Defining AI & the Human Condition
+
+<details>
+ <summary><h3>LESSON TWO:  Defining AI & the Human Condition</h3></summary>
+
+## Defining AI & the Human Condition
 ### A neuroethological view on today's Artificial intelligence: <br /> The Human Condition
 In this lesson we explore how to define AI from the perspective of what us defines as human beings
 
@@ -108,8 +116,13 @@ In this lesson we explore how to define AI from the perspective of what us defin
 
 <br> <br>
 ***********
+</details>
 
-## LESSON THREE: AI-models versus Machine learning Algorithms
+
+<details>
+ <summary><h3>LESSON THREE:  AI-models versus Machine Learning Algorithms</h3></summary>
+ 
+## AI-models versus Machine Learning Algorithms
 
 ### ALGORITHM versus MODEL
 In this lesson we explore how [Computational Thinking](https://github.com/robvdw/Digital-Humans/files/9795236/Computational_Thinking_WING_2016.pdf)
@@ -125,8 +138,13 @@ Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural networ
 
 <br> <br>
 ***********
+</details>
 
-## LESSON FOUR: Machine Learning
+
+<details>
+ <summary><h3>LESSON FOUR: Coding Machine Learning Algorithms</h3></summary>
+ 
+## Coding Machine Learning Algorithms
 
 ### Learn How to Train Neural Networks With custom-made Python code
 * In this lesson we explore how pseudo code of the perceptron "Machine Learning" algorithm can be transformed into a Python Jupyter Notebook.  We will learn how to create Pandas "DataFrames" that can be easily changed and manipulated. In particular we will focus on the maths behind the dot-product function, needed to code the artificial neural network architecture op the perceptron "classification Model".
@@ -166,3 +184,7 @@ Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural networ
 * [Perceptron basics](https://julienbeaulieu.gitbook.io/wiki/sciences/machine-learning/neural-networks/perceptron-algorithm)
 
 * Book: [Beale, R., & Jackson, T. (1990). Neural Computing-an introduction. CRC Press](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/PERCEPTRON/Neural_Computing_An_Introduction.pdf)
+ 
+ *******
+ </details>
+
