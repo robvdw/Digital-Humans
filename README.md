@@ -43,14 +43,14 @@ The details of this [Digital Competence Centre (DCC) pilot project](https://www.
 
  The aim is to equip students with the Data Science skills and insight of neuroscience principles to complete basic AI-modelling scenario's covering the 3 most widely used AI-application modalities: Language: NLP, vision: CV and Motor-behaviour: RL.
 
-<p align="center">
-
+<div align="center">
+        
    Natural Language Processing [NLP]   |   Computer Vision [CV]    |    Reinforced Learning [RL]    
  --- | --- | ---
  | |
  creating  [chat-bots](https://www.digitalocean.com/community/tutorials/how-to-create-an-intelligent-chatbot-in-python-using-the-spacy-nlp-library) | creating [facial expression recognition](https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff) | creating [ML-agents](https://www.gocoder.one/blog/introduction-to-unity-ml-agents)
 
-</p>
+ </div
 
 ***********
 
