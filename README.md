@@ -2,7 +2,7 @@
 # Digital-Humans
 How can digital platforms scale their world-wide services to meet people's needs & wants, within the context of the human condition?
 <p align="center">
-<img src="https://user-images.githubusercontent.com/684692/195643458-84bc50e8-5195-4f80-8195-d7e1cf0c70ad.jpg" width=80% height=60%>
+<img src="https://user-images.githubusercontent.com/684692/195643458-84bc50e8-5195-4f80-8195-d7e1cf0c70ad.jpg" width=90% height=90%>
 <p align="center">
 
 
@@ -15,34 +15,33 @@ Creative industries  address this "humanizing cyber" paradox by developing agent
 How to get non-technical students to employ and adjust existing "AI-models" is a subject that is [scarcely researched](https://vu.nl/nl/nieuws/2022/felienne-hermans-nieuwe-hoogleraar-computer-science-education). We will work in accordance to the "Flip-the-Classroom" Paradigm, to address this educational challenge. Our Motto is ["Do No Harm"](https://www.technologyreview.com/2018/06/07/142429/dont-be-ai-vil-google-says-its-algorithms-will-do-no-harm/).
 
 
-
+<div align="center">
 ██████╗░░█████╗░  ███╗░░██╗░█████╗░  ██╗░░██╗░█████╗░██████╗░███╗░░░███╗██╗
 ██╔══██╗██╔══██╗  ████╗░██║██╔══██╗  ██║░░██║██╔══██╗██╔══██╗████╗░████║██║
 ██║░░██║██║░░██║  ██╔██╗██║██║░░██║  ███████║███████║██████╔╝██╔████╔██║██║
 ██║░░██║██║░░██║  ██║╚████║██║░░██║  ██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║╚═╝
 ██████╔╝╚█████╔╝  ██║░╚███║╚█████╔╝  ██║░░██║██║░░██║██║░░██║██║░╚═╝░██║██╗
 ╚═════╝░░╚════╝░  ╚═╝░░╚══╝░╚════╝░  ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝
-
- $$
-R_{\mu \nu} - {1 \over 2}g_{\mu \nu}\,R + g_{\mu \nu} \Lambda
-= {8 \pi G \over c^4} T_{\mu \nu}
-$$
+</div>
  
 ***********
 
 ## Goal & Aims
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/684692/196029775-3b67edab-5368-49b9-9969-78e1275538d0.png"  width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/684692/196029775-3b67edab-5368-49b9-9969-78e1275538d0.png"  width=70% height=70%>
 <p align="center">
 
 This Do-It-Yourself (DIY) course is designed to provide a basic grounding of AI based on Data Science principles & practices. In doing so, we provide hands-on experience with cloud computing by providing access to the [LISA-cluster](https://www.surf.nl/files/2019-03/lisa-compute-cluster.pdf) from the Dutch national compute centre [SURFsara](https://nl.wikipedia.org/wiki/SURFsara). That is, students get access to data Science coding tools via the [JupyterHub for Education service](https://servicedesk.surf.nl/wiki/display/WIKI/JupyterHub+for+education) of [SURF.nl](https://servicedesk.surf.nl/wiki/).
 The details of this [Digital Competence Centre (DCC) pilot project](https://www.surf.nl/digital-competence-center-voor-praktijkgericht-onderzoek) are publicized on [Researchgate](http://dx.doi.org/10.13140/RG.2.2.25781.55526).
 
+***********
+ 
 ## AI-application Modalities
 
  The aim is to equip students with the Data Science skills and insight of neuroscience principles to complete basic AI-modelling scenario's covering the 3 most widely used AI-application modalities: Language: NLP, vision: CV and Motor-behaviour: RL.
 
+<br> <br>
 <div align="center">
         
    Natural Language Processing [NLP]   |   Computer Vision [CV]    |    Reinforced Learning [RL]    
@@ -50,18 +49,19 @@ The details of this [Digital Competence Centre (DCC) pilot project](https://www.
  | |
  creating  [chat-bots](https://www.digitalocean.com/community/tutorials/how-to-create-an-intelligent-chatbot-in-python-using-the-spacy-nlp-library) | creating [facial expression recognition](https://towardsdatascience.com/the-ultimate-guide-to-emotion-recognition-from-facial-expressions-using-python-64e58d4324ff) | creating [ML-agents](https://www.gocoder.one/blog/introduction-to-unity-ml-agents)
 
- </div
+</div>
+<br> <br>
 
 ***********
 
-### LESSON ZERO: Data Science Basics
+## LESSON ZERO: Data Science Basics
 
 #### Basic introduction how to use python as a Data science tool
 ##### ANSCOMB's QUARTET
 Explained are the [Anscombe Quarted](https://github.com/robvdw/Digital-Humans/tree/main/Code/ANSCOMB_QUARTED) in combination with  the distinction between [data & information](https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-e54144a509a6).
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/684692/196254596-598a91b4-896c-4d59-b3d0-b061645501b6.png" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/684692/196254596-598a91b4-896c-4d59-b3d0-b061645501b6.png" width=80% height=80%>
 <p align="center">
 
 #### Materials
@@ -70,7 +70,7 @@ Example Python Jupyter Notebooks on the Anscombe's Quartet can be found in de [c
 * Lesson sheets on [data Science fundamentals](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/ZERO/DATA_SCIENCE_BASICS_SEPT_2022sec..pdf)
 * Medium Blog on [Data versus Information](https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-e54144a509a6)
 <p align="center">
-<img src="https://user-images.githubusercontent.com/684692/195687848-eeb8b9cc-6e25-4ff7-a00c-0055ff1d1d43.png" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/684692/195687848-eeb8b9cc-6e25-4ff7-a00c-0055ff1d1d43.png" width=80% height=80%>
 <p align="center">
 * Book: [Intro to Python](https://github.com/pdeitel/IntroToPython)
 * Book: [Intro to Anaconda + Jupyter Notebooks]( https://github.com/PacktPublishing/Building-Data-Science-Solutions-with-Anaconda)
