@@ -245,17 +245,26 @@ level top-to-bottom  | Structure | refers to
 
 <br>
  
-<img align="right" width="400" height="500" src="https://user-images.githubusercontent.com/684692/203276773-fc86d5c5-ea7b-4941-abe6-84d5657f530d.png">
+<img align="right" width="600" height="500" src="https://user-images.githubusercontent.com/684692/203276773-fc86d5c5-ea7b-4941-abe6-84d5657f530d.png">
      
 >NLP software typically analyzes text by breaking it up into words (tokens) and sentences. Hence, any NLP pipeline has to start with a reliable system to split the text into sentences (sentence segmentation) and further split a sentence into words (word tokenization). On the surface, these seem like simple tasks, and you may wonder why they need special treatment.
  
 
  
 <br> <br>
+<br> <br>
+<br> <br>
+<br> <br>
+<br> <br>
+<br> <br>
+<br> <br>
+<br> <br>
 ***********
 
 ### Materials
-Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural network modelling](https://github.com/robvdw/Digital-Humans/tree/main/Code/PERCEPTRON) can be found in de coding folder of this repository.
+Example Python Jupyter Notebooks on [NLP](https://github.com/robvdw/Digital-Humans/tree/main/Code/NLP) can be found in de coding folder of this repository.
+Example Python Jupyter Notebooks on [CHATBOTS](https://github.com/robvdw/Digital-Humans/tree/main/Code/CHATBOT) can be found in de coding folder of this repository.
+ 
 
 * [Lesson sheets 3 + 4: AI models vs ML Algorithms](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/MODELS_vs_ALGORITHMS/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf)
 
