@@ -216,14 +216,41 @@ https://www.machinelearningplus.com/nlp/chatbot-with-rasa-and-spacy/
 not only learn about NLP but also provide  real-life coding examplesand  discuss why a particular NLP
 method may be needed in chatbots. Note that knowing how to use NLP technology is in itself a  must-have skill to develop.
 
-### Pre=processing 
+### Free Texts Pre-Processing 
 
+<img align="right" width="200" height="250" src="https://user-images.githubusercontent.com/684692/203280396-54afa593-0190-4a20-81cd-5c742fb3c8cc.png">
+ 
+>A corpus can be large or small, though generally they consist of dozens or even hundreds of gigabytes of data inside of thousands of documents. Corpora are collections of related documents that contain natural language. Corpora can be annotated, meaning that the text or documents are labeled with the correct responses for supervised learning algorithms (e.g., to build a filter to detect spam email), or unannotated, making them candidates for topic modeling and document clustering (e.g., to explore shifts in latent themes within messages over time).
 
- ![image](https://user-images.githubusercontent.com/684692/203276773-fc86d5c5-ea7b-4941-abe6-84d5657f530d.png)
+[Natural Language Processing (NLP)](https://www.ibm.com/cloud/learn/natural-language-processing) is a hybrid AI-discipline that is developed from [linguistics](https://en.wikipedia.org/wiki/Linguistics) and [computer science](https://en.wikipedia.org/wiki/Computer_science) to make human language intelligible to machines. 
+The computers’ availability in the 1960s gave rise to NLP applications on computers known as [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics). The structure of language is hierarchical comprising of seven levels each that contrain the use of computational linguistics.
+ 
+ 
+<br>
+ 
+<div align="center">
+    
+    
+level top-to-bottom  | Structure | refers to 
+----- | ----------| --------------------------------------------------------
+[1] | Phonology   | Elementary sounds
+[2] | Morphology  | Elementary combinations of letters and sounds, called Morphemes
+[3] | Lexical     | Individual words formed of Morphemes, called Lexemes
+[4] | Syntax      | Combination of words, grammatical structure of a sentence
+[5] | Semantics   | Rules used to convey meaning using the lower levels
+[6] | Pragmatics  | Behavioral constraints on the use of a specific language
+[7] | Discourse   | Multiple sentences together, rules about how they should relate to each other
+    
+</div>      
 
+<br>
+ 
+<img align="right" width="400" height="500" src="https://user-images.githubusercontent.com/684692/203276773-fc86d5c5-ea7b-4941-abe6-84d5657f530d.png">
+     
+>NLP software typically analyzes text by breaking it up into words (tokens) and sentences. Hence, any NLP pipeline has to start with a reliable system to split the text into sentences (sentence segmentation) and further split a sentence into words (word tokenization). On the surface, these seem like simple tasks, and you may wonder why they need special treatment.
  
 
-
+ 
 <br> <br>
 ***********
 
