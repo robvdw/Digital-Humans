@@ -194,6 +194,56 @@ Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural networ
 
 * Book: [Beale, R., & Jackson, T. (1990). Neural Computing-an introduction. CRC Press](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/PERCEPTRON/Neural_Computing_An_Introduction.pdf)
  
+
+
+
+<br> <br>
+***********
+</details>
+
+<!--- DOT MATRIX URLs
+https://www.machinelearningplus.com/nlp/chatbot-with-rasa-and-spacy/
+-->
+
+
+<details>
+ <summary><h3>LESSON Five+Six+Seven: Natural language processing & Chabots</h3></summary>
+ 
+## Natural Language Processing [NLP]
+
+### Conversational AI: Natural Language Processing for Chatbots.
+* In this lesson we explore what basic Natural Language Processing [NLP] tools and methods to use to bulid chatbots with python. We 
+not only learn about NLP but also provide  real-life coding examplesand  discuss why a particular NLP
+method may be needed in chatbots. Note that knowing how to use NLP technology is in itself a  must-have skill to develop.
+
+### Pre=processing 
+
+
+ ![image](https://user-images.githubusercontent.com/684692/203276773-fc86d5c5-ea7b-4941-abe6-84d5657f530d.png)
+
+ 
+
+
+<br> <br>
+***********
+
+### Materials
+Example Python Jupyter Notebooks on [the perceptron ML-algorithm + neural network modelling](https://github.com/robvdw/Digital-Humans/tree/main/Code/PERCEPTRON) can be found in de coding folder of this repository.
+
+* [Lesson sheets 3 + 4: AI models vs ML Algorithms](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/MODELS_vs_ALGORITHMS/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf)
+
+* [Pandas.org  Python-coding chaet-sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+* [Numpy.org quickstart](https://numpy.org/devdocs/user/quickstart.html)
+
+* [Perceptron basics](https://julienbeaulieu.gitbook.io/wiki/sciences/machine-learning/neural-networks/perceptron-algorithm)
+
+* Book: [Beale, R., & Jackson, T. (1990). Neural Computing-an introduction. CRC Press](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/PERCEPTRON/Neural_Computing_An_Introduction.pdf)
+ 
  *******
  </details>
+
+
+
+
 
