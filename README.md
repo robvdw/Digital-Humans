@@ -16,7 +16,9 @@ Creative industries  address this "humanizing cyber" paradox by developing agent
 
 ## Educational Challenge & [Motto](https://fsymbols.com/text-art/)
 
-How to get non-technical students to employ and adjust existing "AI-models" is a subject that is [scarcely researched](https://vu.nl/nl/nieuws/2022/felienne-hermans-nieuwe-hoogleraar-computer-science-education). We will work in accordance to the "Flip-the-Classroom" Paradigm, to address this educational challenge. Our Motto is ["Do No Harm"](https://www.technologyreview.com/2018/06/07/142429/dont-be-ai-vil-google-says-its-algorithms-will-do-no-harm/).
+How to get non-technical students to employ and adjust existing "AI-models" is a subject that is [scarcely researched](https://vu.nl/nl/nieuws/2022/felienne-hermans-nieuwe-hoogleraar-computer-science-education). We will work in accordance to the "Flip-the-Classroom" Paradigm, to address this educational challenge. 
+
+Our [Motto](https://www.technologyreview.com/2018/06/07/142429/dont-be-ai-vil-google-says-its-algorithms-will-do-no-harm/) is:
 
 <br> <br>
 <div align="center">
