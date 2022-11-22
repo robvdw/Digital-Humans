@@ -213,8 +213,8 @@ https://www.machinelearningplus.com/nlp/chatbot-with-rasa-and-spacy/
 
 ### Conversational AI: Natural Language Processing for Chatbots.
 * In this lesson we explore what basic Natural Language Processing [NLP] tools and methods to use to bulid chatbots with python. We 
-not only learn about NLP but also provide  real-life coding examplesand  discuss why a particular NLP
-method may be needed in chatbots. Note that knowing how to use NLP technology is in itself a  must-have skill to develop.
+not only learn about NLP but also provide real-life coding examples. In doing so discuss particular NLP
+methods  that form the basis in chatbots to develop dialogues meaningfull to humans. Thus, knowing how to use NLP technology is in itself a  must-have skill to develop.
 
 ### Free Texts Pre-Processing 
 
