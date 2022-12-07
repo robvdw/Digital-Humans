@@ -261,20 +261,52 @@ level top-to-bottom  | Structure | refers to
 <br> <br>
 ***********
 
+# CODING OPDRACHT
+
+>Ontwerp een trainbare ---op Machine Learning [ML] gebaseerde--- Chat-bot.
+Maak daarbij gebruik van Python-based Natural Language Processing tools en methodieken zoals die zijn besproken in de les.
+
+De Python-code moet online beschikbaar worden gemaakt in de vorm een GitHub-Repository. De werking ervan moet worden gedemonstreerd via een aan Binder gekoppelde Jupyter Notebook.
+
+Een voorbeeld van hoe een Repository over NLP eruit kan komen te zien (inclusief Binder) is: 
+https://github.com/robvdw/Decision-Support-Systems-In-Allied-Healthcare
+
+Maak gebruik van de volgende aanwijzingen: 
+
+<img align="right" width="400" height="250" src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/02/19151503/Blog-Chatbot-Combined-01-1-1068x251.jpg">
+  • De data-pipeline van een standaard chat-bot ziet er als volgt uit:
+  https://www.mygreatlearning.com/blog/basics-of-building-an-artificial-intelligence-chatbot/
+
+•	Populaire op NLP gebaseerde Python coding-packages zijn:
+<div align="center">
+    
+|NLP TOOLS |
+| -------- |
+NLTK
+Sciit-Learn
+SpaCie
+Rasa
+Stanford Core NLP
+PyNLP1
+Textblob
+Pattern
+Chatterbot
+
+</div>    
+
+
+***********
 ### Materials
 Example Python Jupyter Notebooks on [NLP](https://github.com/robvdw/Digital-Humans/tree/main/Code/NLP) can be found in de coding folder of this repository.
 Example Python Jupyter Notebooks on [CHATBOTS](https://github.com/robvdw/Digital-Humans/tree/main/Code/CHATBOT) can be found in de coding folder of this repository.
  
 
-* [Lesson sheets 3 + 4: AI models vs ML Algorithms](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/MODELS_vs_ALGORITHMS/LESSON_03%2B04_Digital_Humans_Part01_V02.pdf)
+1.	https://spacy.io/usage/spacy-101
+2.	https://chatterbot.readthedocs.io/en/stable/tutorial.html
+3.	https://rasa.com/docs/rasa/installation/installing-rasa-open-source/
+4.	https://www.analyticsvidhya.com/blog/2021/07/build-a-simple-chatbot-using-python-and-nltk/
+5.	https://www.pycodemates.com/2021/11/build-a-AI-chatbot-using-python-and-deep-learning.html
 
-* [Pandas.org  Python-coding chaet-sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-
-* [Numpy.org quickstart](https://numpy.org/devdocs/user/quickstart.html)
-
-* [Perceptron basics](https://julienbeaulieu.gitbook.io/wiki/sciences/machine-learning/neural-networks/perceptron-algorithm)
-
-* Book: [Beale, R., & Jackson, T. (1990). Neural Computing-an introduction. CRC Press](https://github.com/robvdw/Digital-Humans/blob/main/LESSONS/THREE%2BFOUR/PERCEPTRON/Neural_Computing_An_Introduction.pdf)
  
  *******
  </details>
