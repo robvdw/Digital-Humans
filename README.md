@@ -207,7 +207,7 @@ https://www.machinelearningplus.com/nlp/chatbot-with-rasa-and-spacy/
 
 
 <details>
- <summary><h3>LESSON Five+Six+Seven: Natural language processing & Chabots</h3></summary>
+ <summary><h3>LESSON Five+Six+Seven: Natural language processing & Chatbots</h3></summary>
  
 ## Natural Language Processing [NLP]
 
