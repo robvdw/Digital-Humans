@@ -273,10 +273,10 @@ https://github.com/robvdw/Decision-Support-Systems-In-Allied-Healthcare
 
 Maak gebruik van de volgende aanwijzingen: 
 
-<img align="right" width="400" height="250" src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/02/19151503/Blog-Chatbot-Combined-01-1-1068x251.jpg">
+<img align="right" width="400" height="250" src="https://user-images.githubusercontent.com/684692/215346282-a626ab02-792c-4cca-beeb-83159361a952.jpg">
   • De data-pipeline van een standaard chat-bot ziet er als volgt uit:
   https://www.mygreatlearning.com/blog/basics-of-building-an-artificial-intelligence-chatbot/
-
+  
 •	Populaire op NLP gebaseerde Python coding-packages zijn:
 <div align="center">
     
